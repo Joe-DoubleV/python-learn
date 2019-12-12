@@ -1,4 +1,3 @@
-
 # outfile = open("file/file1.txt","w")
 
 # outfile.write("qwerty\nasdfgh\n")
