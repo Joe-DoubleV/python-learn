@@ -27,7 +27,5 @@ def main():
             lt(result[i][2])
     goto(0,0)
     done()
- 
- 
 if __name__ == '__main__':
     main()
