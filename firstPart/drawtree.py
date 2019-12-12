@@ -12,7 +12,6 @@ def tree(plist,l,a,f):
  			lst.append(q)
  		tree(lst,l*f,a,f)
 
-
 def main():
 	p = turtle.Turtle()
 	p.color("blue")
@@ -27,5 +26,3 @@ def main():
 	t = tree([p],200,65,0.65)
 	turtle.done()
 main()
-
-
