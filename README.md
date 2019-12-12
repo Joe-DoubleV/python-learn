@@ -1,4 +1,3 @@
 # python-learn
 now let`s learn python
-+---firstPart
-|---python基础
+    firstPart---python基础
