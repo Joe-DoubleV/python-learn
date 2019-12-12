@@ -67,7 +67,6 @@ def main():
 	# turtle.right(90)
 	# turtle.fd(150)
 	# turtle.left(90)
-
 	# turtle.setup(700,350,200,200)
 	# turtle.penup()
 	# turtle.fd(-300)
