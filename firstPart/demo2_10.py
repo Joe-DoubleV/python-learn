@@ -26,8 +26,7 @@ def tree(plist, l, a, f):
 
         tree(lst, l*f, a, f)
     print (len(lst))    
-            
- 
+             
 def main():
     p = Turtle()
     p.color("green")
