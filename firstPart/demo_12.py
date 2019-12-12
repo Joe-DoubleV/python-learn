@@ -12,6 +12,7 @@ w = wordcloud.WordCloud(font_path = 'msyh.ttc', background_color = 'white',width
 w.generate(txt)
 w.to_file("cloudNight.png")
 
+
 # f = open("file/suggestion.txt","r",encoding='utf-8')
 # t = f.read()
 # f.close()
