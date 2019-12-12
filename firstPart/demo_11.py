@@ -1,4 +1,3 @@
-
 import turtle
 
 def koch(size , n):
