@@ -40,7 +40,6 @@ def drawData(data):
 	# turtle.pencolor('red')
 	# for x in data:
 	# 	drawDight(x)
-
 	turtle.pencolor('red')
 	for x in data :
 		if x =="-":
