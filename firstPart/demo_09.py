@@ -3,8 +3,6 @@ import random
 import time
 print ("PI={}".format(math.pi))
 
-
-
 for i in range(1,11):
 	Pi = 0
 	N = 2*i
