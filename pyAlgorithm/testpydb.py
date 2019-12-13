@@ -2,10 +2,10 @@ import pymssql
 import zipfile
 import openpyxl
 # import connect
-server = "10.42.90.92:1433"
+server = ""
 user = "sa"
-password = "itengineer1234"
-database = "YOFCFIS"
+password = ""
+database = ""
 path = "C:\\Users\\0104795\\Desktop\\print\\test\\file.zip"
 localpath = ".\\test\\"
 srcpath = ".\\test\\fiblist.xlsx"
